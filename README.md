@@ -1,4 +1,9 @@
 # MyBlog
+Personal blog project using Angular and Scully.
+
+1. Generate the build of the Angular project using: ng-build
+2. Build Scully and generate blog routes: npx scully --project my-blog
+3. Serve blog: npx scully serve --project my-blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
@@ -25,3 +30,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# blog-angular-scully

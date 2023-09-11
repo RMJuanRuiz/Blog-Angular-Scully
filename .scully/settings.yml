@@ -1,0 +1,11 @@
+identifier: l5m3ff31048axag6
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /Users/juaruiz3/Desktop/personal/my-blog
+distFolder: dist/my-blog
+outDir: /Users/juaruiz3/Desktop/personal/my-blog/dist/static
+handle404: ''
+allowErrorCollect: false
